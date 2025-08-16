@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    display: flex;
+height: 100vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#root{
+    padding: 20px;
+    background-color: rgb(50, 104, 104);
+    border-radius: 5px;
+    color: aliceblue;
+}
+button{
+    padding: 20px 20px ;
+    border-radius: 10px;
+    box-shadow: 5px black;
+    border: none;
+}
+#red{
+    background-color: red;
+
+}
+#green{
+    background-color: green;
+    
+}
+#blue{
+    background-color: blue;
+    
+}
+#purple{
+    background-color: purple;
+    
+}
+#yellow{
+    background-color: yellow;
+    
+}
